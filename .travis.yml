@@ -1,6 +1,4 @@
 language: c
-sudo: enabled
-script: scons
-compiler:
--clang
--gcc
+compiler: gcc
+
+
